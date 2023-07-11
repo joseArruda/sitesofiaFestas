@@ -283,3 +283,24 @@
     }
 
 }
+
+@media (max-width:270px){
+    .titulo-adulto{
+        font-size: 23px;
+        padding: 0px 5px;
+    }
+
+
+    .titulo-adulto:hover{
+        font-size: 24px;
+    }
+
+    .logo-infantil-adulto{
+        width: 50px;
+    }
+    
+    .logo-infantil-adulto:hover{
+        width: 51px;
+    }
+
+}
